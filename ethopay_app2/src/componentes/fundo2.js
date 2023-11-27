@@ -8,7 +8,7 @@ const FundoDois = () => {
     backgroundRepeat: 'no-repeat',
     backgroundPosition: 'center center',
     width: '100%',
-    height: '100vh', // Ajuste isso conforme necessário
+    height: '100vh', 
   };
 
   return (

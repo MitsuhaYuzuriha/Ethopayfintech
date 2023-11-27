@@ -3,7 +3,7 @@ import Style from './Titulo.module.css'
 
 function TypingHeader() {
   const [text, setText] = useState('');
-  const fullText = 'Vem fazer parte do futuro\nVem de Ethopay';
+  const fullText = 'Vem fazer parte do futuro\nVem de Ethopay!';
   const typingSpeed = 50; // Velocidade de digitação (em milissegundos)
 
   useEffect(() => {
