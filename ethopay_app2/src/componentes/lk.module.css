@@ -21,7 +21,7 @@
 
   .contato ul li a:hover{
     color: blueviolet;
-    transition: ;
+    transition: none;
   }
 
   .links{

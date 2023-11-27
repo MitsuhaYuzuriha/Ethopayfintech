@@ -3,7 +3,7 @@ import Style from './fala1.module.css'
 
 const Fala1 = () => {
   return (
-    <div className={Style.containerStyle}>
+    <div className={Style.containerStyle2}>
        <p>Tenha o controle do seu futuro financeiro a um toque de distância.</p>
     </div>
   );
